@@ -1,0 +1,6 @@
+<div class="col-6">
+<input id="input2" name="age" type="text"/>
+<div class="d-grid">
+<button class="btn btn-primary mt-4" type="submit">Submit</button>
+</div>
+</div>
